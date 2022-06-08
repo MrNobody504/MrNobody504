@@ -1,8 +1,7 @@
 # Hi there, I'm MrNobody504 aka [NY][youtube] 👋 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IRlF4Be" data-context="false" ><a href="//imgur.com/a/IRlF4Be"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-https://img.shields.io/youtube/channel/subscribers/UCtbVis-gZiAbEA_JmNwN6Ng?logo=youtube&logoColor=red&style=for-the-badge
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![WP](https://i.imgur.com/rq6jOaB.mp4)
 
 ## I'm a 15 year old coder, currently developing websites & discord bots!
 
