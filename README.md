@@ -1,9 +1,6 @@
 # Hi there, I'm MrNobody504 aka [NY][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/nobodyakany?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=About Me - NY &style=for-the-badge&url=https%3A%2F%2Fbio.helloimnobody.repl.co/)](https://bio.helloimnobody.repl.co/)
-[![Twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/N0B0DY504/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 
 ## I'm a 15 year old coder, currently developing websites & discord bots!
 
