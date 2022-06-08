@@ -1,7 +1,7 @@
 # Hi there, I'm MrNobody504 aka [NY][youtube] 👋 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-![WP](https://i.imgur.com/rq6jOaB.mp4)][wallpaper]
+![WP](https://cdn.discordapp.com/attachments/980100426781294592/984012430990520370/1.gif)][wallpaper]
 
 ## I'm a 15 year old coder, currently developing websites & discord bots!
 
