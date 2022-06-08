@@ -1,6 +1,8 @@
 # Hi there, I'm MrNobody504 aka [NY][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtbVis-gZiAbEA_JmNwN6Ng?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/IRlF4Be" data-context="false" ><a href="//imgur.com/a/IRlF4Be"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+https://img.shields.io/youtube/channel/subscribers/UCtbVis-gZiAbEA_JmNwN6Ng?logo=youtube&logoColor=red&style=for-the-badge
 
 ## I'm a 15 year old coder, currently developing websites & discord bots!
 
@@ -26,9 +28,9 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
