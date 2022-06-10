@@ -7,7 +7,7 @@
 
 ![WP](https://cdn.discordapp.com/attachments/980100426781294592/984012430990520370/1.gif)
 
-## I'm a 15 year old coder, currently developing websites & discord bots!
+## I'm a coder, currently developing websites & discord bots!
 
 
 - 🌱 I’m currently learning everything 🤣
