@@ -12,11 +12,11 @@
 ## I'm a coder, currently developing websites & discord bots!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn python ⬅️
-- ⚡ Fun fact: My hobby is to draw!
-- 😻 Currently Developing a music bot!
+- [x] I’m currently learning discordPY
+- [x] I’m looking to collaborate with other content creators
+- [x] 2022 Goals: Learn python ⬅️
+- [x] Also a GFX Designer ;) ( not doing VFXs anymore )
+- [x] Currently Doing Nothing.
 
 ### Connect with me:
 
